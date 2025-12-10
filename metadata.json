@@ -1,0 +1,5 @@
+{
+  "name": "Space Triangle Puzzle",
+  "description": "A math coloring puzzle set in space where players must color a triangular grid without creating monochromatic small triangles.",
+  "requestFramePermissions": []
+}
